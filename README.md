@@ -41,12 +41,16 @@ Outputs with blend for given set of images:
 
 Mosaic of img1 and img2:				
 ![image](https://github.com/niveditaapr21/Panaroma_image_stitching/assets/42715946/4c900920-4ea5-424e-94e2-2a76f1bc5605)
+
 Mosaic of img1, img2 and img3:
 ![image](https://github.com/niveditaapr21/Panaroma_image_stitching/assets/42715946/0e7769ba-56a0-43cf-a933-901b23d6f7ab)
+
 Mosaic of img1, img2, img3 and img4:
 ![image](https://github.com/niveditaapr21/Panaroma_image_stitching/assets/42715946/7a6dcfff-6355-4ed8-a3b3-27890c0068b1)
+
 Mosaic of img1, img2, img3, img4 and img5:
 ![image](https://github.com/niveditaapr21/Panaroma_image_stitching/assets/42715946/a4f0e831-5c5a-43c4-aeb7-a9252b433157)
+
 Mosaic of img1, img2, img3, img4 and img5(without blend):
 ![image](https://github.com/niveditaapr21/Panaroma_image_stitching/assets/42715946/e77bc577-5eaf-4cd6-995e-ee1ac3dcb757)
 
